@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1607322996 source:g:\3-2\gl project\lei\lei.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<string>
+	<ctype.h>
+	<math.h>
+	<stdio.h>
+	<map>
+	<vector>
+
